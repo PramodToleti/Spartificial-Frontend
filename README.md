@@ -67,7 +67,7 @@ The application is equipped with a dummy dataset for users and posts, making it 
 4. Start the development server:
 
    ```bash
-    npm start
+    npm run dev
    ```
 
 5. Open the application in your browser:
